@@ -1,0 +1,1 @@
+import{n as e}from"./Ai3seqkF.js";const n=e("/assets/imgs/svg-assets/quote.png"),t=()=>{let s=document.querySelector(".swiper-pagination");s&&(s.innerHTML=s.innerHTML.replace(" / ",""))};export{n as _,t as r};
