@@ -48,32 +48,6 @@
         </div>
       </div>
     </div>
-    <div class="clients-marq no-bord pt-80 mt-40">
-      <div class="container">
-        <div class="main-marq">
-          <div class="slide-har st1">
-            <div class="box non-strok">
-              <div v-for="item in barndsData" :key="item" class="item">
-                <div class="img icon-img-100">
-                  <a href="#0">
-                    <img :src="item" alt="" />
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="box non-strok">
-              <div v-for="item in barndsData" :key="item" class="item">
-                <div class="img icon-img-100">
-                  <a href="#0">
-                    <img :src="item" alt="" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
 </template>
 
@@ -84,7 +58,6 @@ import { Navigation, Pagination } from 'swiper';
 import removeSlashFromPagination from '@/common/removeSlashFromPagination';
 //= Static Data
 import data from '@/data/CreativeAgency/testimonials.json';
-import barndsData from '@/data/CreativeAgency/barnds.json';
 
 const swiperOptions = {
   modules: [Navigation, Pagination],
