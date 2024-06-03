@@ -9,7 +9,7 @@
         <CreativeAgencyAbout />
         <CreativePortfolioServices />
         <CreativePortfolioWorks />
-        <CreativeAgencyTestimonials />
+      
       </main>
       <CommonFooter1 />
     </div>

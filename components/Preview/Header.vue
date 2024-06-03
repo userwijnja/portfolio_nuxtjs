@@ -2,7 +2,7 @@
   <header>
     <div class="caption">
       <div class="text-center">
-        <h2>Maarten Wijnja</h2>
+        <h2>Professional</h2>
         <h5 class="f-ultra-light">Frontend Developer.</h5>
       </div>
     </div>
