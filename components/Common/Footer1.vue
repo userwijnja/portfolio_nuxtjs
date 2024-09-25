@@ -56,13 +56,13 @@
             <div class="links">
               <ul class="rest">
                 <li>
-                  <a href="/about" class="animsition-link">FAQ</a>
+                  <a href="/" class="animsition-link">FAQ</a>
                 </li>
                 <li>
-                  <a href="/about" class="animsition-link">Careers</a>
+                  <a href="/" class="animsition-link">CV</a>
                 </li>
                 <li>
-                  <a href="/contact" class="animsition-link">Contact Us</a>
+                  <a href="/" class="animsition-link">Contact</a>
                 </li>
               </ul>
             </div>
@@ -71,15 +71,7 @@
             <div class="copyright d-flex">
               <div class="ml-auto">
                 <p class="fz-13">
-                  © 2024 Bayone is Proudly Powered by
-                  <span class="underline">
-                    <a
-                      href="https://themeforest.net/user/UiCamp"
-                      target="_blank"
-                    >
-                      UiCamp
-                    </a>
-                  </span>
+                  © 2024 Maarten Wijnja
                 </p>
               </div>
             </div>

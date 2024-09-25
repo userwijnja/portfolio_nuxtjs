@@ -29,10 +29,10 @@
           </div>
           <div class="col-lg-3">
             <div class="column">
-              <h6 class="sub-title mb-30">Our Office :</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+              <h6 class="sub-title mb-30">Location :</h6>
+              <p>Amsterdam</p>
               <h5 class="mt-15 underline">
-                <a href="#0">+2 456 34324 45</a>
+                <a href="#0">+31 6 23723021</a>
               </h5>
             </div>
           </div>
