@@ -27,7 +27,7 @@ interface _GlobalComponents {
     'CreativePortfolioHeader': typeof import("../components/CreativePortfolio/Header.vue")['default']
     'CreativePortfolioMarquee': typeof import("../components/CreativePortfolio/Marquee.vue")['default']
     'CreativePortfolioTestimonials': typeof import("../components/CreativePortfolio/Testimonials.vue")['default']
-    'HomeAbout': typeof import("../components../components/Home/Works.vue
+    'HomeAbout': typeof import("../components/Home/About.vue")['default']
     'HomeAwards': typeof import("../components/Home/Awards.vue")['default']
     'HomeContact': typeof import("../components/Home/Contact.vue")['default']
     'HomeHeader': typeof import("../components/Home/Header.vue")['default']
@@ -124,7 +124,7 @@ interface _GlobalComponents {
     'LazyCreativePortfolioMarquee': typeof import("../components/CreativePortfolio/Marquee.vue")['default']
     'LazyCreativePortfolioTestimonials': typeof import("../components/CreativePortfolio/Testimonials.vue")['default']
     'LazyHomeAbout': typeof import("../components/Home/About.vue")['default']
-    'LazyHomeAwards': typeof import("../component../components/Home/Works.vue
+    'LazyHomeAwards': typeof import("../components/Home/Awards.vue")['default']
     'LazyHomeContact': typeof import("../components/Home/Contact.vue")['default']
     'LazyHomeHeader': typeof import("../components/Home/Header.vue")['default']
     'LazyHomeServices': typeof import("../components/Home/Services.vue")['default']
@@ -235,7 +235,7 @@ export const CreativePortfolioMarquee: typeof import("../components/CreativePort
 export const CreativePortfolioTestimonials: typeof import("../components/CreativePortfolio/Testimonials.vue")['default']
 export const HomeAbout: typeof import("../components/Home/About.vue")['default']
 export const HomeAwards: typeof import("../components/Home/Awards.vue")['default']
-export const HomeContact: typeof import("../componen../components/Home/Works.vue
+export const HomeContact: typeof import("../components/Home/Contact.vue")['default']
 export const HomeHeader: typeof import("../components/Home/Header.vue")['default']
 export const HomeServices: typeof import("../components/Home/Services.vue")['default']
 export const HomeTeam: typeof import("../components/Home/Team.vue")['default']
@@ -332,7 +332,7 @@ export const LazyCreativePortfolioTestimonials: typeof import("../components/Cre
 export const LazyHomeAbout: typeof import("../components/Home/About.vue")['default']
 export const LazyHomeAwards: typeof import("../components/Home/Awards.vue")['default']
 export const LazyHomeContact: typeof import("../components/Home/Contact.vue")['default']
-export const LazyHomeHeader: typeof import("../component../components/Home/Works.vue
+export const LazyHomeHeader: typeof import("../components/Home/Header.vue")['default']
 export const LazyHomeServices: typeof import("../components/Home/Services.vue")['default']
 export const LazyHomeTeam: typeof import("../components/Home/Team.vue")['default']
 export const LazyHomeTestimonials: typeof import("../components/Home/Testimonials.vue")['default']

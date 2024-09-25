@@ -2,29 +2,29 @@
   {
     "id": 1,
     "numb": "01",
-    "title": "Product Design",
-    "icon": "/assets/imgs/serv-icons/0.png",
-    "content": "We build and activate brands through cultural insight, strategic vision, and the power of emotion across every"
+    "title": "Wordpress",
+    "icon": "/assets/imgs/serv-icons/0.svg",
+    "content": "Bekijk projecten"
   },
   {
     "id": 2,
     "numb": "02",
-    "title": "Art Direction",
-    "icon": "/assets/imgs/serv-icons/1.png",
-    "content": "We build and activate brands through cultural insight, strategic vision, and the power of emotion across every"
+    "title": "React",
+    "icon": "/assets/imgs/serv-icons/1.svg",
+    "content": "Bekijk projecten"
   },
   {
     "id": 3,
     "numb": "03",
-    "title": "Web Development",
-    "icon": "/assets/imgs/serv-icons/2.png",
-    "content": "We build and activate brands through cultural insight, strategic vision, and the power of emotion across every"
+    "title": "Vue",
+    "icon": "/assets/imgs/serv-icons/2.svg",
+    "content": "Bekijk projecten"
   },
   {
     "id": 4,
     "numb": "04",
-    "title": "Branding Strategy",
-    "icon": "/assets/imgs/serv-icons/0.png",
-    "content": "We build and activate brands through cultural insight, strategic vision, and the power of emotion across every"
+    "title": "PHP",
+    "icon": "/assets/imgs/serv-icons/3.svg",
+    "content": "Bekijk projecten"
   }
 ]
