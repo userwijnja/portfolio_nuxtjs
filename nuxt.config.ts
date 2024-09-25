@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Bayone",
+      title: "Maarten Wijnja",
       htmlAttrs: {
         lang: 'en'
       },
@@ -28,15 +28,15 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template Bayone Multi-Purpose themeforest'
+          content: 'Portfolio Frontend webdeveloper'
         },
         {
           name: 'description',
-          content: 'Bayone - Multi-Purpose Vue Nuxtjs Template'
+          content: 'Maarten Wijnja - Frontend Developer'
         },
         {
           name: 'author',
-          content: 'UiCamp'
+          content: 'Maarten Wijnja'
         }
       ],
       "link": [

@@ -6,10 +6,10 @@
           <div class="col-lg-6">
             <div class="eml">
               <h6 class="sub-title opacity-8">
-                we would love to hear from you.
+                I would love to hear from you.
               </h6>
               <h2 class="underline fz-60">
-                <a href="#0">hello@Bayone.com</a>
+                <a href="#0">info@mwijnja.com</a>
               </h2>
             </div>
           </div>
@@ -17,7 +17,7 @@
         <div class="row mt-80">
           <div class="col-lg-3">
             <div class="logo">
-              <img src="/assets/imgs/logo-light.png" alt="" />
+              <img src="/assets/imgs/logo-mw.png" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -41,10 +41,10 @@
           </div>
           <div class="col-lg-3">
             <div class="column">
-              <h6 class="sub-title mb-30">Our Office :</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+              <h6 class="sub-title mb-30">Location:</h6>
+              <p>Amsterdam</p>
               <h5 class="mt-15 underline">
-                <a href="#0">+2 456 34324 45</a>
+                <a href="#0">+0623723021</a>
               </h5>
             </div>
           </div>

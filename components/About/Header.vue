@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-lg-9 offset-lg-1">
           <div class="cont">
-            <h6 class="sub-title mb-15">Creative Agency</h6>
-            <h1 class="text-u">About Us</h1>
+            <h6 class="sub-title mb-15">Maarten Wijnja</h6>
+            <h1 class="text-u">About me</h1>
           </div>
         </div>
       </div>

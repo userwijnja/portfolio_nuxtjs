@@ -7,7 +7,7 @@
       <main class="main-bg">
         <AboutHeader />
         <AboutIntro />
-        <AboutTestimonials />
+        <AboutJourney />
       </main>
       <CommonFooter1 />
     </div>

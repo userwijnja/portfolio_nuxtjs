@@ -6,9 +6,9 @@
     <CommonMenu />
       <main>
         <PreviewHeader />
-        <CreativeAgencyAbout />
-        <CreativePortfolioServices />
-        <CreativePortfolioWorks />
+        <HomeAbout />
+        <HomeServices />
+        <HomeWorks />
       
       </main>
       <CommonFooter1 />
