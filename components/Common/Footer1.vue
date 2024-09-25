@@ -34,7 +34,7 @@
                   <a href="#0" class="hover-anim">LinkedIn</a>
                 </li>
                 <li class="hover-this cursor-pointer">
-                  <a href="#0" class="hover-anim">Behance</a>
+                  <a href="#0" class="hover-anim">Github</a>
                 </li>
               </ul>
             </div>
