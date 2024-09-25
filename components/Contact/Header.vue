@@ -11,7 +11,7 @@
         </div>
         <div class="col-lg-11">
           <div class="google-map">
-            <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=hollwood&t=&z=11&ie=UTF8&iwloc=&output=embed">
+            <iframe id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77979.66565694314!2d4.821560822747606!3d52.35474184379341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c63fb5949a7755%3A0x6600fd4cb7c0af8d!2sAmsterdam!5e0!3m2!1snl!2snl!4v1727278379332!5m2!1snl!2snl" width="600" height="450" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
             </iframe>
           </div>
         </div>

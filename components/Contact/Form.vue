@@ -5,7 +5,7 @@
         <div class="col-lg-8">
           <div class="full-width">
             <div class="sec-head text-center mb-80">
-              <span class="sub-title mb-15 opacity-8">- Contact Us</span>
+              <span class="sub-title mb-15 opacity-8">- Contact Me</span>
               <h3 class="text-u fz-50">Get In Touch.</h3>
             </div>
             <form id="contact-form" method="post" action="contact.php">
