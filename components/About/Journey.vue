@@ -47,7 +47,7 @@ Today, after several successful projects, I can proudly say that web development
 </template>
 
 <script setup>
-import data from '@/data/CreativePortfolio/about.json';
+import data from '@/data/About/about.json';
 
 const openAccordion = (event) => {
   document.querySelectorAll('.accordion .item').forEach((el) => {

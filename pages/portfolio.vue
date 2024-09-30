@@ -9,9 +9,7 @@
           <LandingHeader />
           <LandingAbout />
           <LandingWorks />
-          <LandingMarquee />
-          <LandingBrands />
-          <LandingAccordions />
+    
         </div>
       </main>
       <CommonFooter1 />
