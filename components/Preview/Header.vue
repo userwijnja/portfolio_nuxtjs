@@ -14,7 +14,7 @@
         <div class="box">
           <img src="/landing-preview/img/header/1.jpg" alt="" />
           <img src="/landing-preview/img/header/2.jpg" alt="" />
-          <img src="/landing-preview/img/header/3.jpg" alt="" />
+          <img src="/landing-preview/img/header/2.jpg" alt="" />
           <img src="/landing-preview/img/header/12.jpg" alt="" />
           <img src="/landing-preview/img/header/13.jpg" alt="" />
           <img src="/landing-preview/img/header/6.jpg" alt="" />
@@ -24,7 +24,7 @@
         <div class="box">
           <img src="/landing-preview/img/header/1.jpg" alt="" />
           <img src="/landing-preview/img/header/2.jpg" alt="" />
-          <img src="/landing-preview/img/header/3.jpg" alt="" />
+          <img src="/landing-preview/img/header/2.jpg" alt="" />
           <img src="/landing-preview/img/header/12.jpg" alt="" />
           <img src="/landing-preview/img/header/13.jpg" alt="" />
           <img src="/landing-preview/img/header/6.jpg" alt="" />

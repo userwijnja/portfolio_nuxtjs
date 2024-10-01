@@ -10,7 +10,7 @@
 
 body {
   color: #fff;
-  background-color: #0c0c0c;
+  background-color: #112d32;
   font-size: 14px;
   font-family: 'Poppins', sans-serif;
   font-family: 'Mona-Sans Regular', sans-serif;
@@ -306,11 +306,11 @@ figure {
 }
 
 .main-bg {
-  background-color: #0c0c0c;
+  background-color: #112d32;
 }
 
 .sub-bg {
-  background-color: #141414;
+  background-color: #0f2025;
 }
 
 .bg-gray {
@@ -873,7 +873,7 @@ img {
   line-height: 44px;
   font-size: 13px;
   font-weight: 900;
-  color: #ccc;
+  color: #fff;
   left: 0;
   top: 0;
   height: 44px;
@@ -891,7 +891,7 @@ img {
 }
 
 .progress-wrap svg.progress-circle path {
-  stroke: #ccc;
+  stroke: #fff;
   stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -2790,7 +2790,7 @@ body.loaded {
   top: 0;
   width: 100vw;
   height: 110vh;
-  fill: #1b1b1b;
+  fill: #0f2025;
 }
 
 .loader-wrap .loader-wrap-heading .load-text {
@@ -3442,7 +3442,7 @@ body.loaded {
   top: -100%;
   width: 100%;
   height: 100vh;
-  background:#0c0c0c;
+  background:#112d32;
   padding: 120px 30px 30px;
   overflow: hidden;
   z-index: 9999;
