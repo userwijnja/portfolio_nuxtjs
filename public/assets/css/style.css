@@ -1,18 +1,4 @@
 @charset "UTF-8";
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Bayone
-    Theme URI: http://
-    Description: Creative Agency & Portfolio
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-/* Variables  #202327
------------------------------------------------------------------*/
-/* Typography
------------------------------------------------------------------*/
 * {
   margin: 0;
   padding: 0;
@@ -2803,7 +2789,7 @@ body.loaded {
   position: absolute;
   top: 0;
   width: 100vw;
-  height: 100vh;
+  height: 110vh;
   fill: #1b1b1b;
 }
 

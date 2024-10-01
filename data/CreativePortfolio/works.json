@@ -2,22 +2,22 @@
   {
     "id": 1,
     "img": "/assets/imgs/works/full/1.jpg",
-    "category": "Digital Design",
-    "title": "Retouch Photo",
+    "category": "Wordpress",
+    "title": "Portfolio website",
     "link": "/project1"
   },
   {
     "id": 2,
     "img": "/assets/imgs/works/full/2.jpg",
-    "category": "Branding",
-    "title": "Earthmade Aroma",
+    "category": "Wordpress",
+    "title": "Significant Coaching",
     "link": "/project2"
   },
   {
     "id": 3,
     "img": "/assets/imgs/works/full/3.jpg",
-    "category": "Branding",
-    "title": "Bank Rebranding",
+    "category": "Wordpress",
+    "title": "Business website",
     "link": "/project3"
   },
   {
