@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/mwijn/OneDrive/Bureaublad/portfolio_nuxtjs - kopie/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/mwijn/OneDrive/E-mailbijlagen/Documenten/GitHub/portfolio_nuxtjs/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "C:/Users/mwijn/OneDrive/Bureaublad/portfolio_nuxtjs - kopie/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/mwijn/OneDrive/E-mailbijlagen/Documenten/GitHub/portfolio_nuxtjs/node_modules/nuxt/dist/app/entry.js"
   }
 }
