@@ -27,7 +27,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="sec-head">
-            <h6 class="sub-title fz-20 md-mb50">Services</h6>
+            <h6 class="sub-title fz-20 md-mb50">Experience</h6>
           </div>
         </div>
         <div class="col-lg-7 offset-lg-1">

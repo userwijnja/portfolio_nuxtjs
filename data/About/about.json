@@ -2,21 +2,21 @@
   {
     "id": 1,
     "title": "Web & mobile apps",
-    "content": "Building fast, scalable web and mobile apps."
+    "content": "Specializing in creating responsive, fast, and scalable web and mobile applications that prioritize user experience and functionality. My goal is to build solutions that not only meet user needs but also anticipate future growth."
   },
   {
     "id": 2,
     "title": "UX & product design",
-    "content": "Creating user-friendly designs that enhance the overall experience."
+    "content": "Driven by a user-centered approach, I design with the end-user in mind. My process includes thorough research and testing to develop interfaces that are both intuitive and visually engaging, ensuring the product resonates with its target audience."
   },
   {
     "id": 3,
     "title": "WordPress Development",
-    "content": "Building customized WordPress solutions to meet specific needs."
+    "content": "Experienced in crafting custom WordPress themes and plugins that deliver on performance and flexibility. My aim is to help clients manage their sites with ease while achieving a polished, professional online presence."
   },
   {
     "id": 4,
     "title": "Frameworks",
-    "content": "Utilizing Vue and React to create responsive and interactive applications."
+    "content": "Proficient in frameworks such as Vue and React, I build dynamic applications that are modular and maintainable. My framework expertise ensures that projects are optimized, scalable, and easy to manage over time."
   }
 ]
